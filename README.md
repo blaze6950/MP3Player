@@ -1,5 +1,5 @@
 # MP3Player
-Music player audio files expansion .mp3. Implemented in C # with WindowsForms. Implemented in the MVP architecture. It is possible to view information about the track, cover, you can rewind playback. It is also possible to create playlists and customize the playback of tracks in playlists.
+This is an audio player which supports audio files with .mp3 extension. It is implemented on C# using WindowsForms. The architecture is MVP. This app supports the viewing of information about tracks, and displaying track covers. Also, the rewind playback is implemented. There is a feature for creating playlists and customizing the playback of tracks in playslists.
 <br>
 ![Screenshot2](image1.PNG)
 ![Screenshot](image.png)
